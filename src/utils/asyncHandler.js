@@ -20,6 +20,21 @@ export {asyncHandler}
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Try Catch Method
 // const asyncHandler = (fn) => {async (req, res, next) => {
 //     try {

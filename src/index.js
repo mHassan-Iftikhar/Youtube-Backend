@@ -40,10 +40,6 @@ connectDB()
 
 
 
-
-
-
-
 // (async () => {
 //     try {
 //         await mongoose.connect(`${process.env.MONGODB_URI}/${DB_NAME}`)
